@@ -1,3 +1,6 @@
+# Moved  
+I moved this to [https://github.com/cristianghsandu/hass-esp32-ac](https://github.com/cristianghsandu/hass-esp32-ac)  
+
 # ESP32 Home Sensor: AC Control #
 
 ## General info ##
